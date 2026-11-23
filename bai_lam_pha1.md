@@ -2,7 +2,7 @@
 
 - **Họ tên:** Nguyễn Tiến Dũng
 - **Lớp:** HN-KS26-CNTT3
-- **Link repository Pha1:** 
+- **Link repository Pha1:** https://github.com/Tdun87/HN-KS26-CNTT3_PromptAI_H03_deluyentap
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
